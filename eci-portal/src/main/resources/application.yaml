@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: eci-portal
+
+server:
+  port: 20010
+
+res:
+  term: ws://127.0.0.1:20020/term
+  apiEciList: http://127.0.0.1:20020/eci/list
+  apiEci: http://127.0.0.1:20020/eci
