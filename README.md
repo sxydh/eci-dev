@@ -1,4 +1,4 @@
-# ECI-DEV
+# ECI Dev
 
 ## QuickStart
 
